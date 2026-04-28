@@ -6,5 +6,13 @@ Repositório com materiais trabalhados na segunda parte do segundo trabalho da d
 - PAULO VINICIUS DE MENDONCA CARVALHO
 - TIAGO FERNANDES DE MIRANDA
 
+# Repositório
+| Pasta | Conteúdo |
+|---|---|
+| `documentos/` | Artigos e documentos gerais utilizados no trabalho |
+| `resultados/` | Resultados obtidos no estudo de caso |
+| `slides/` | Apresentação do trabalho |
+
+
 # Resumo do trabalho
 ...
